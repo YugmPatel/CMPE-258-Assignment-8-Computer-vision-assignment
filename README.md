@@ -3,46 +3,6 @@
 ```markdown
 # Assignment 8 - Computer Vision
 
-This repository contains solutions to Assignment 8 for the Computer Vision course. The assignment is structured into multiple parts covering contrastive learning, transfer learning, and the application of state-of-the-art models for vision tasks.
-
----
-
-## 📁 Structure
-
-```
-assignment_8/
-│
-├── Part1_SupervisedContrastiveLearning/
-│   ├── supervised_contrastive_vs_softmax.ipynb
-│   └── README.md
-│
-├── Part2_TransferLearning_Modalities/
-│   ├── image_transfer_learning.ipynb
-│   ├── audio_transfer_learning.ipynb
-│   ├── video_transfer_learning.ipynb
-│   └── README.md
-│
-├── Part3_ZeroShot_and_TFHub/
-│   ├── zero_shot_CLIP.ipynb
-│   ├── tfhub_transferlearning_bigtransfer.ipynb
-│   └── README.md
-│
-├── Part4_VisionModels/
-│   ├── mnist_transferlearning.ipynb
-│   ├── fashion_mnist_transferlearning.ipynb
-│   ├── cifar10_transferlearning.ipynb
-│   └── README.md
-│
-├── Part5_MedicalImaging/
-│   ├── xray_pneumonia_classification.ipynb
-│   ├── ct_scan_3d_classification.ipynb
-│   └── README.md
-│
-└── README.md  ← (This file)
-```
-
----
-
 ## ✅ Part 1: Supervised Contrastive Learning vs Softmax
 
 - Demonstrates the use of **Supervised Contrastive Loss** vs traditional **Softmax Cross-Entropy** for image classification.
